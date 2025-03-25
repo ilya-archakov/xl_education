@@ -638,11 +638,11 @@
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Data\Util\GradientUtil.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Serialization\JsonData.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Drawing\Blackboard\BlackboardInputInfo.cs" />
-     <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Util\CompatibilityExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\AssemblyInfo.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Data\Util\KeywordUtil.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Data\Nodes\Math\Advanced\LogNode.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Extensions\FieldExtensions.cs" />
+     <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Util\CompatibilityExtensions.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Data\Interfaces\Graph\IEdge.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Data\Nodes\Artistic\Adjustment\ContrastNode.cs" />
      <Compile Include="Library\PackageCache\com.unity.shadergraph@12.1.6\Editor\Extensions\IConditionalExtensions.cs" />
